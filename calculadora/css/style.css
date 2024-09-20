@@ -1,9 +1,9 @@
 .entrada {
-    padding: 10px; /* Ajuste o padding */
-    border: 2px solid #000; /* Cor da borda */
-    border-radius: 0px; /* Remove arredondamento para bordas quadradas */
-    width: 100px; /* Largura do campo */
-    font-size: 16px; /* Tamanho da fonte */
+    padding: 10px; 
+    border: 2px solid #000; 
+    border-radius: 0px; 
+    width: 100px; 
+    font-size: 16px; 
 }
 
 
